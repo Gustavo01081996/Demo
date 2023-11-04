@@ -1,9 +1,17 @@
 {
-  "perguntas": [ {
+  "tarefas": [ {
 
                     "id": 1,
-                    "titulo": "Quem já teve epilepsia pode doar sangue ?",
-                    "categoria": "Doenças",
-                    "email": "Sim"
-}]
+                    "descricao": "Estudar ATP",
+                    "categoria": "Estudo",
+                    "duracao": 1
+},
+    {
+                    "id": 2,
+                    "descricao": "Assitir Netflix",
+                    "categoria": "Lazer",
+                    "duracao": 2
+    }
+    
+  ]
 }
